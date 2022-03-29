@@ -14,4 +14,4 @@
     {"asset":"cdimage.kali.org","IP_Address":"192.99.200.113"}, {"asset":"archive-8.kali.org","IP_Address":"192.99.200.113"},
     {"asset":"archive.kali.org","IP_Address":"192.99.45.140"},
     {"asset":"cdimage.kali.org","IP_Address":"192.99.200.113"},
-    {"asset":"forums.kali.org","IP_Address":"192.124.249.12"},{"asset":"old.kali.org","IP_Address":"54.39.49.227"},{"asset":"pkg.kali.org","IP_Address":"192.124.249.9"},{"asset":"status.kali.org","IP_Address":"192.124.249.56"},{"asset":"tools.kali.org","IP_Address":"50.116.58.136"},{"asset":"www.kali.org","IP_Address":"104.26.14.143, 104.26.15.143, 172.67.75.106"}]
+    {"asset":"forums.kali.org","IP_Address":"192.124.249.12"},{"asset":"old.kali.org","IP_Address":"54.39.49.227"},{"asset":"pkg.kali.org","IP_Address":"192.124.249.9"},{"asset":"status.kali.org","IP_Address":"192.124.249.56"},{"asset":"tools.kali.org","IP_Address":"50.116.58.136"}]

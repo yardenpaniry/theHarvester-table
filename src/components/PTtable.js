@@ -29,9 +29,9 @@ const PTtable = () => {
    //  entriesOptions={false} 
      entries={10} 
       searching={false}
-    //   striped
-    //   bordered
-    //   small
+      striped
+      bordered
+      small
     hover
       data={data}
     />
